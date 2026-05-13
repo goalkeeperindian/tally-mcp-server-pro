@@ -1,0 +1,4 @@
+node_modules/
+dist/*.mjs.map
+private/
+.env
